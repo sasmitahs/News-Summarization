@@ -13,8 +13,7 @@ This application fetches news articles about a specified company, summarizes the
 - [Assumptions & Limitations](#-assumptions--limitations)
 - [Expected Output](#-expected-output)
 - [Deployment](#-deployment)
-- [Contributors](#-contributors)
-- [License](#-license)
+
 
 ## 📖 Introduction
 
@@ -54,18 +53,12 @@ The application extracts and analyzes news articles related to a given company, 
    pip install -r requirements.txt
    ```
 
-4. **Set the environment variable:**
-   Ensure you have a valid **Groq API key**:
-   ```bash
-   export GROQ_API_KEY="your-api-key"
-   ```
-
-5. **Run the application:**
+4. **Run the application:**
    ```bash
    python app.py
    ```
 
-6. **Access the application:**
+5. **Access the application:**
    - **Streamlit**: Open [http://localhost:8501](http://localhost:8501) in your browser.
    - **FastAPI**: Open [http://localhost:8000](http://localhost:8000) for API endpoints.
 
@@ -76,7 +69,7 @@ The application extracts and analyzes news articles related to a given company, 
 - View:
   - Summarized articles with sentiment distribution.
   - Comparative analysis across multiple news articles.
-- Download the structured **JSON report** or **Hindi audio summary**.
+- Download the structured **JSON report** and **Hindi audio summary**.
 
 ## 🌐 API Details
 
@@ -128,6 +121,7 @@ The application uses the following models and libraries:
 - **Keyword Extraction**: `KeyBERT` for extracting key topics from articles.
 - **Hindi Translation**: `deep-translator` utilizing the Google Translate API for Hindi translations.
 - **Text-to-Speech (TTS)**: `gTTS` (Google Text-to-Speech) for generating Hindi audio outputs.
+- - **Coverage Differences**: Utilizes **Groq's llama-3.3-70b-versatile** model for generating comparative insights across news articles.
 
 ## ⚠️ Assumptions & Limitations
 
@@ -155,28 +149,6 @@ The application uses the following models and libraries:
 4. **Hindi Audio**:
    - Downloadable **MP3** file containing the final sentiment summary in Hindi.
 
-### Example JSON Output:
-```json
-{
-  "Company": "Tesla",
-  "Articles": [
-    {
-      "Title": "Tesla's New Model Breaks Sales Records",
-      "Summary": "Tesla's latest EV sees record sales in Q3...",
-      "Sentiment": "Positive",
-      "Topics": ["Electric Vehicles", "Stock Market"]
-    },
-    {
-      "Title": "Regulatory Scrutiny on Tesla's Self-Driving Tech",
-      "Summary": "Regulators have raised concerns...",
-      "Sentiment": "Negative",
-      "Topics": ["Regulations", "Autonomous Vehicles"]
-    }
-  ],
-  "Final Sentiment Analysis": "Tesla’s latest news coverage is mixed.",
-  "Audio": "[Play Hindi Speech]"
-}
-```
 
 ## 🚀 Deployment
 
@@ -195,16 +167,8 @@ The application is deployed on **Hugging Face Spaces**.
 
 2. **Create a new Space** on Hugging Face and link the repository.
 
-3. **Set environment variables**:
-   - Add `GROQ_API_KEY` as a secret environment variable.
 
-4. **Ensure `requirements.txt`** includes all dependencies.
+3. **Ensure `requirements.txt`** includes all dependencies.
 
-## 👥 Contributors
 
-- [Your Name](https://github.com/your-profile)
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
 
