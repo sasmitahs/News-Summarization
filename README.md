@@ -25,7 +25,7 @@ The application extracts and analyzes news articles related to a given company, 
 
 ## ✨ Features
 
-- Extracts and displays titles, summaries, and metadata from 10+ news articles.
+- Extracts and displays titles, summaries, and metadata from 10 news articles.
 - Sentiment analysis on article content (positive, negative, neutral).
 - Comparative sentiment analysis for broader insights.
 - Hindi Text-to-Speech (TTS) output.
