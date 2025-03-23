@@ -3,6 +3,8 @@
 
 This application fetches news articles about a specified company, summarizes them, performs sentiment analysis, and generates a Hindi audio summary of the final sentiment. Users can input a company name and receive a structured sentiment report along with an audio output.
 
+huggingface spaces link: https://huggingface.co/spaces/Sasmitah/NewsSummarizationTTS1
+
 ## 📑 Table of Contents
 - [Introduction](#-introduction)
 - [Features](#-features)
