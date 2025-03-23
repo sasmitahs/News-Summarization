@@ -1,7 +1,3 @@
-# News Summarization and Text-to-Speech Application
-
-This application fetches news articles about a specified company, summarizes them, performs sentiment analysis, and generates a Hindi audio summary of the final sentiment.
-
 # 📰 News Summarization and Text-to-Speech Application
 
 This application fetches news articles about a specified company, summarizes them, performs sentiment analysis, and generates a Hindi audio summary of the final sentiment. Users can input a company name and receive a structured sentiment report along with an audio output.
