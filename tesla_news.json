@@ -1,0 +1,202 @@
+{
+    "Company": "tesla",
+    "Articles": [
+        {
+            "Title": "Tesla vandals face up to 20 years in prison, says attorney general",
+            "Summary": "attorney general says damage to Tesla cars, dealerships and charging stations is \"domestic terrorism\" prosecutors can request longer prison sentences if convicted criminals have a terrorism-related motive. supporters of the administration have also reportedly been \"swatted\"",
+            "Sentiment": "Negative",
+            "Topics": [
+                "tesla",
+                "vandalism",
+                "prosecutors",
+                "terrorism",
+                "suspects"
+            ]
+        },
+        {
+            "Title": "Tesla's challenges run deeper than 'toxic' controversy around Elon Musk",
+            "Summary": "he disapproves vehemently of Tesla CEO Elon Musk's actions. \"there are ways of doing things that don't ostracise people or belittle them,\" he says. \"this level of violence is insane and deeply wrong,\" he says.",
+            "Sentiment": "Negative",
+            "Topics": [
+                "tesla",
+                "musk",
+                "teslas",
+                "ben",
+                "politicians"
+            ]
+        },
+        {
+            "Title": "The FBI Is Investigating Attacks on Tesla as ‘Domestic Terrorism.’ Here’s Why That Matters",
+            "Summary": "the arrests were made over the last several weeks in Oregon, Colorado, and south Carolina. civil liberties experts claim treating alleged attacks against Tesla cars as terrorist activity could give federal and local law enforcement broad authority to surveil people protesting Elon Musk’s role in the government. the demonstrations have multiplied since they began in mid-February.",
+            "Sentiment": "Negative",
+            "Topics": [
+                "tesla",
+                "teslas",
+                "protesting",
+                "protests",
+                "protesters"
+            ]
+        },
+        {
+            "Title": "Tesla vandals face up to 20 years in prison, says attorney general",
+            "Summary": "attorney general says damage to Tesla cars, dealerships and charging stations is \"domestic terrorism\" prosecutors can request longer prison sentences if convicted criminals have a terrorism-related motive. supporters of the administration have also reportedly been \"swatted\"",
+            "Sentiment": "Negative",
+            "Topics": [
+                "tesla",
+                "vandalism",
+                "prosecutors",
+                "terrorism",
+                "suspects"
+            ]
+        },
+        {
+            "Title": "Tesla makes largest ever Cybertruck recall",
+            "Summary": "the issue affects more than 46,000 trucks made starting in November 2023. it affects more than 46,000 trucks made starting in November 2023. three people will face charges for setting fire to Tesla cars and charging stations.",
+            "Sentiment": "Negative",
+            "Topics": [
+                "tesla",
+                "cybertruck",
+                "cybertrucks",
+                "recalls",
+                "recalled"
+            ]
+        },
+        {
+            "Title": "DOGE’s Dodgy Numbers Employ a Tesla Technique",
+            "Summary": "the department of government efficiency, or DOGE, has slashed grants and budgets. the group maintains a list of slashed grants and budgets, a running tally of its work. in recent weeks, the new york Times reported that DOGE has posted major mistakes to the website.",
+            "Sentiment": "Negative",
+            "Topics": [
+                "doge",
+                "musk",
+                "tesla",
+                "reuters",
+                "ceo"
+            ]
+        },
+        {
+            "Title": "Cybertruck Recall Hits 46K Vehicles Thanks to a Glue Failure",
+            "Summary": "a trim panel on the Tesla Cybertruck can detach while you're driving. the cant rail is attached with glue and fasteners, but may detach while the truck is in motion. the recall applies to all Cybertrucks manufactured from Nov. 13, 2023 to Feb. 27, 2024.",
+            "Sentiment": "Negative",
+            "Topics": [
+                "tesla",
+                "cybertruck",
+                "cybertrucks",
+                "recalls",
+                "recalled"
+            ]
+        },
+        {
+            "Title": "Tesla, Intel and the fecklessness of corporate boards",
+            "Summary": "catch up on global daily news Tune into compelling long reads Tune into engaging conversations Watch engaging short films Gain insights from experts Curated news, direct to your inbox Unlimited digital access to all reporting, podcasts, newsletters and events SITTING ON THE board of a large American company is at once the plummest and most thankless work in business.",
+            "Sentiment": "Positive",
+            "Topics": [
+                "industry",
+                "mining",
+                "reporting",
+                "news",
+                "business"
+            ]
+        },
+        {
+            "Title": "Will Elon Musk scrap his plan to invest in a gigafactory in Mexico?",
+            "Summary": "ev plant in nuevo león, a state bordering the united states, would churn out more electric vehicles (evs) than any of his existing facilities in America, China and Germany. a proposed tie-up between Prada and Versace is just the start Non-profit institutions are no help Demand at home and abroad is fuelling their growth.",
+            "Sentiment": "Positive",
+            "Topics": [
+                "tesla",
+                "mexico",
+                "ev",
+                "musk",
+                "industry"
+            ]
+        },
+        {
+            "Title": "Elon Musk’s antics are not the only problem for Tesla",
+            "Summary": "a proposed tie-up between Prada and Versace is just the start Non-profit institutions are no help Demand at home and abroad is fuelling their growth Companies from Asahi to TSMC are expanding production in the country—for now To enhance your experience and ensure our website runs smoothly, we use cookies and similar technologies.",
+            "Sentiment": "Positive",
+            "Topics": [
+                "tesla",
+                "profit",
+                "economy",
+                "donald",
+                "demand"
+            ]
+        }
+    ],
+    "Comparative Sentiment Score": {
+        "Sentiment Distribution": {
+            "Positive": 3,
+            "Negative": 7,
+            "Neutral": 0
+        }
+    },
+    "Coverage Differences": {
+        "Coverage Differences": [
+            {
+                "Comparison": "Articles 1, 3, and 4 focus on vandalism and domestic terrorism against Tesla, while Articles 2 and 6 criticize Elon Musk's actions and leadership. In contrast, Articles 8, 9, and 10 highlight positive aspects of Tesla, such as its business prospects and expansion plans.",
+                "Impact": "The negative coverage in Articles 1, 3, and 4 may harm Tesla's market perception by creating an image of a company under attack, while the criticism of Elon Musk in Articles 2 and 6 may erode investor confidence. On the other hand, the positive coverage in Articles 8, 9, and 10 may boost Tesla's stock price and reinforce its position as a leader in the electric vehicle industry."
+            },
+            {
+                "Comparison": "Articles 5 and 7 report on the recall of Tesla's Cybertruck due to a glue failure, while Article 8 discusses the role of corporate boards in overseeing companies like Tesla.",
+                "Impact": "The recall reported in Articles 5 and 7 may raise concerns about the quality and safety of Tesla's products, potentially affecting sales and revenue. In contrast, Article 8's discussion of corporate governance may be seen as a positive sign of accountability and leadership, which could reassure investors and customers."
+            },
+            {
+                "Comparison": "Article 9 speculates about Tesla's potential investment in a gigafactory in Mexico, while Article 10 mentions the company's growth and demand for its products.",
+                "Impact": "The potential investment in Mexico reported in Article 9 could be seen as a strategic move to expand Tesla's production capacity and reach new markets, which could have a positive impact on the company's stock price and market share. Similarly, the growth and demand mentioned in Article 10 may reinforce Tesla's position as a market leader and drive further investment and innovation."
+            }
+        ]
+    },
+    "Topic Overlap": {
+        "Common Topics": [
+            "tesla",
+            "vandalism",
+            "prosecutors",
+            "terrorism",
+            "suspects",
+            "musk",
+            "teslas",
+            "ben",
+            "recalls",
+            "recalled",
+            "industry"
+        ],
+        "Unique Topics in Article 1": [],
+        "Unique Topics in Article 2": [
+            "politicians"
+        ],
+        "Unique Topics in Article 3": [
+            "protesting",
+            "protests"
+        ],
+        "Unique Topics in Article 4": [],
+        "Unique Topics in Article 5": [
+            "cybertruck",
+            "cybertrucks"
+        ],
+        "Unique Topics in Article 6": [
+            "ceo",
+            "reuters",
+            "doge"
+        ],
+        "Unique Topics in Article 7": [
+            "cybertruck",
+            "cybertrucks"
+        ],
+        "Unique Topics in Article 8": [
+            "reporting",
+            "news",
+            "mining",
+            "business"
+        ],
+        "Unique Topics in Article 9": [
+            "ev",
+            "mexico"
+        ],
+        "Unique Topics in Article 10": [
+            "demand",
+            "profit",
+            "donald",
+            "economy"
+        ]
+    },
+    "Final Sentiment Analysis": "tesla’s latest news coverage is mostly negative. This negative sentiment suggests potential stock decline as investor confidence may weaken."
+}

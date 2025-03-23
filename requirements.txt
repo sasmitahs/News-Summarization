@@ -1,0 +1,15 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+transformers==4.38.2
+torch>=2.1.0  # Required by transformers for T5 model
+keybert==0.8.4
+spacy==3.7.4
+nltk==3.8.1
+groq==0.4.2
+sentencepiece>=0.1.99  # Required by T5Tokenizer
+streamlit==1.36.0
+fastapi==0.115.0
+pydantic==2.6.4
+uvicorn==0.30.6
+deep-translator==1.11.4
+gtts==2.5.3
